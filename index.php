@@ -365,7 +365,7 @@ footer {
   <h2>Kontakt</h2>
   <div class="contact">
     <p>📍 Kolín, Česká republika</p>
-    <p>📞 <a href="tel:+420773020334">+420 773 020 334</a></p>
+    <p>📞 <a href="tel:+420111222333">+420 111 222 333</a></p>
     <p>📧 <a href="mailto:info@michalchocholaty.cz">info@michalchocholaty.cz</a></p>
     <p>🌐 Instagram: <a href="https://www.instagram.com/michal_chocholaty/" target="_blank">@michal_chocholaty</a></p>
   </div>
